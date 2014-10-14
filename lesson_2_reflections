@@ -1,0 +1,2 @@
+1. When we initialize a repository, git creates an empty git repository .git.
+2. Staging area gives us more flexibility on what we want to commit. It contains only the files from the working directory which are added to the staged area. Theses files are then commited to the repository.
