@@ -1,0 +1,8 @@
+1. 	We can figure out the line containing any typo which can be causing any bug.
+2. 	We can learn from history. If new piece of code introduced some bug we can revert back to the old code.
+3. 	Pros : We can decide when to make a commit, so that commits make more sense. 
+	Cons : We can forget when was the time to commit and the commit can become possibly too large.
+4. Because in a project, many files can be inter-related and changing one can affect the others too.
+5. We can use git log to get the history of all the commits made, and then we can use git commit to differentiate between 2 commits given their commit ids.
+6. We can make changes to the code, knowing that if we introduce any bug while making the change, we can revert back anytime.
+7. To make my profile in git and show my work mainly on python and android on the github platform.
