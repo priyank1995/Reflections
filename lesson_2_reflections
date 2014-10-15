@@ -1,2 +1,7 @@
 1. When we initialize a repository, git creates an empty git repository .git.
 2. Staging area gives us more flexibility on what we want to commit. It contains only the files from the working directory which are added to the staged area. Theses files are then commited to the repository.
+3. We can add the files we are working on and are logically connected into the stagged area and then commit the stagged area into the repository.
+3. Branches can be useful for creating history organized. When there is a major version change. The previous version can be branched out of the main branch as a seperate branch.
+4. Branches in the repository can be drawn in a diagram and it can be better visualized. The branch structure can be drawn and branches can be splitted out drawing a sort of tree.
+5. By merging 2 branches commits made in both the branches are added to a single branch and that branch is made master now. Thus we have commits in both the branches merged.
+6. Pros : Automatic merging is fast. Cons : Automatic merging don't know which code to add if 2 branches have the same piece of code modified.
