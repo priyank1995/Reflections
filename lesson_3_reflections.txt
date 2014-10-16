@@ -4,3 +4,5 @@
    Fork : Done when we colne repo from one git account to our git account but not to our local machine.
    Branch : This is done on ringle repo. We spilt a branch out of one. 
 4. Last known remote copy should be stored locally so that the changes made by other people are also available to us atleast up to the time when the remote-master was fetched.
+5. without git and github code sharing and keeping and managing various versions would have been harder.
+   We could have used a different VCS or used dropbox to share the files.
